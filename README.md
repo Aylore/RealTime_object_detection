@@ -5,4 +5,4 @@
 
 ### Here is Alpha is the cat trying my model
 
-![](alpha.gif)
+![](/assets/alpha.gif)
